@@ -10,7 +10,7 @@
 
 ## Prerequisites :
 
-1.  `API_ID` & `API_HASH` : Login [here](https://my.telegram.org/auth) . select API DEVELOPEMENT TOOLS & fill the details and there you go ...
+1.  `API_ID` & `API_HASH` : Login [here](https://my.telegram.org/auth) . select API DEVELOPEMENT TOOLS & fill the details and there you go ..
 
    <img align = "center" src = "https://i.postimg.cc/4xr6DZRX/fghdg.png"> 
    <img align = "center" src = "https://i.postimg.cc/KYD5BVCF/Inkedwjeh-LI.jpg">
